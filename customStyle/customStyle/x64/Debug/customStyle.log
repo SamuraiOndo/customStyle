@@ -1,0 +1,9 @@
+﻿  dllmain.cpp
+D:\vs 2022 repos\customStyle\customStyle\dllmain.cpp(59,30): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+D:\vs 2022 repos\customStyle\customStyle\dllmain.cpp(59,30): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+D:\vs 2022 repos\customStyle\customStyle\dllmain.cpp(59,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+D:\vs 2022 repos\customStyle\customStyle\dllmain.cpp(59,47): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+D:\vs 2022 repos\customStyle\customStyle\dllmain.cpp(62,15): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+D:\vs 2022 repos\customStyle\customStyle\dllmain.cpp(62,15): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+D:\vs 2022 repos\customStyle\customStyle\dllmain.cpp(62,6): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+  customStyle.vcxproj -> D:\vs 2022 repos\customStyle\x64\Debug\customStyle.asi
